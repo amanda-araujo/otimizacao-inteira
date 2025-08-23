@@ -4,7 +4,7 @@ Atividades desenvolvidas na disciplina **SME0213 - Otimização Inteira**, minis
 
 ## Atividades - Otimização Inteira
 **AC 1: Morango do amor** $\rightarrow$
-Modelagem problema de dimensionamento de lotes de período único e múltiplos períodos. 
+Modelagem problema de dimensionamento de lotes de período único. 
 
 **AC 2: Corte jumbo** $\rightarrow$
 Modelagem problema clássico de corte, empregando abordagem de Kantorovich.
